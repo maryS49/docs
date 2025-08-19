@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Apryse Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#28295B",
+    "light": "#7E809D",
+    "dark": "#080D24"
   },
   "favicon": "/favicon.svg",
   "navigation": {
